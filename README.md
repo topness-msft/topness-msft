@@ -1,0 +1,88 @@
+# Phil Topness
+
+I build tools at the intersection of AI, real-time data, and delightful UX — mostly to scratch my own itch, often ending up as something others can use too.
+
+<br>
+
+<table>
+<tr>
+<td width="300"><a href="https://crowdhum.com"><img src="screens/crowdhum.png" alt="CrowdHum" width="280"></a></td>
+<td>
+<h3><a href="https://crowdhum.com">CrowdHum</a></h3>
+<sup>🌐 Live &nbsp; 🧪 Beta</sup>
+<br><br>
+Live audience polling where votes become physics-animated glowing spheres. No app install — scan a QR code, vote, and watch results materialize on screen.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="300"><a href="https://mcpstation.io"><img src="screens/mcpstation.png" alt="MCP Station" width="280"></a></td>
+<td>
+<h3><a href="https://mcpstation.io">MCP Station</a></h3>
+<sup>🌐 Live &nbsp; 🧪 Beta</sup>
+<br><br>
+A catalog and factory for MCP servers and agent recipes. Browse, assemble, and deploy to Copilot Studio, Claude Desktop, or Cursor. <strong>Free for anyone to use at hackathons.</strong>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="300"><a href="https://replaylane.com"><img src="screens/replaylane.png" alt="ReplayLane" width="280"></a></td>
+<td>
+<h3><a href="https://replaylane.com">ReplayLane</a></h3>
+<sup>🌐 Live &nbsp; 🧪 Beta</sup>
+<br><br>
+Converts screen recordings into interactive click-through simulations. Analyzes cursor movement, detects clicks, transcribes narration, and outputs a shareable static HTML site.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="300"><a href="https://wordsync.app"><img src="screens/wordsync.png" alt="WordSync" width="280"></a></td>
+<td>
+<h3><a href="https://wordsync.app">WordSync</a> &nbsp; <a href="https://github.com/topness-msft/wordsync"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<sup>🌐 Live</sup>
+<br><br>
+German language learning via Deutsche Welle's slowly-spoken news — word-by-word audio highlighting with tap-to-translate. Powered by Whisper + DeepL, updated daily, hosted for free.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="300"><a href="https://adoptionpulse.com"><img src="screens/adoptionpulse.png" alt="AdoptionPulse" width="280"></a></td>
+<td>
+<h3><a href="https://adoptionpulse.com">AdoptionPulse</a></h3>
+<sup>🌐 Live</sup>
+<br><br>
+AI adoption maturity assessment meets live event polling. Guided questionnaire for AI readiness, with a kinetic visualization engine that renders votes as animated glowing particles.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="300"><a href="https://github.com/topness-msft/FlightView"><img src="screens/flightradar.png" alt="FlightView" width="280"></a></td>
+<td>
+<h3>FlightView &nbsp; <a href="https://github.com/topness-msft/FlightView"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<br>
+Raspberry Pi kiosk app tracking aircraft overhead via OpenSky Network. Two themes — vintage Solari split-flap board and modern Heathrow signage — for 7" and 10" touchscreens.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="300"><a href="https://github.com/topness-msft/TodoNess"><img src="screens/todoness.png" alt="TodoNess" width="280"></a></td>
+<td>
+<h3>TodoNess &nbsp; <a href="https://github.com/topness-msft/TodoNess"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<br>
+AI-powered task manager that scans Microsoft 365 — Teams, meetings, flagged emails — to surface actionable to-dos. System-tray app with web dashboard, backed by Claude and WorkIQ MCP.
+</td>
+</tr>
+</table>
+
