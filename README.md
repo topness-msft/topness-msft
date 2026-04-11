@@ -23,7 +23,7 @@ Live audience polling where votes become physics-animated glowing spheres. No ap
 <h3><a href="https://mcpstation.io">MCP Station</a></h3>
 <sup>🌐 Live &nbsp; 🧪 Beta</sup>
 <br><br>
-A catalog and factory for MCP servers and agent recipes. Browse, assemble, and deploy to Copilot Studio, Claude Desktop, or Cursor. <strong>Free for anyone to use at hackathons.</strong>
+A catalog and factory for MCP servers. Generate mock servers from a prompt, sample data, or OpenAPI spec — plus browse pre-built servers and agent recipes. Deploy to Copilot Studio, Claude Desktop, or Cursor. <strong>Free for anyone to use at hackathons.</strong>
 </td>
 </tr>
 </table>
