@@ -35,7 +35,7 @@ A catalog and factory for MCP servers. Generate mock servers from a prompt, samp
 <h3><a href="https://replaylane.com">ReplayLane</a></h3>
 <sup>🌐 Live &nbsp; 🧪 Beta</sup>
 <br><br>
-Converts screen recordings into interactive click-through simulations. Analyzes cursor movement, detects clicks, transcribes narration, and outputs a shareable static HTML site.
+Turn any screen recording into an interactive click-through demo. Upload a video and get a shareable HTML simulation — viewers click through each step at their own pace. Great for product walkthroughs, training, and docs.
 </td>
 </tr>
 </table>
