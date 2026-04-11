@@ -59,7 +59,7 @@ German language learning via Deutsche Welle's slowly-spoken news — word-by-wor
 <h3><a href="https://adoptionpulse.com">AdoptionPulse</a></h3>
 <sup>🌐 Live</sup>
 <br><br>
-AI adoption maturity assessment meets live event polling. Guided questionnaire for AI readiness, with a kinetic visualization engine that renders votes as animated glowing particles.
+AI adoption maturity assessment that guides organizations through a decision-tree questionnaire to evaluate AI readiness across a three-phase model — Empower, Reshape, and Reinvent.
 </td>
 </tr>
 </table>
