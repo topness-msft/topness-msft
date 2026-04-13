@@ -42,6 +42,18 @@ Turn any screen recording into an interactive click-through demo. Upload a video
 
 <table>
 <tr>
+<td width="300"><a href="https://kilnsense.com"><img src="screens/kilnmonitor2.png" alt="KilnSense" width="280"></a></td>
+<td>
+<h3><a href="https://kilnsense.com">KilnSense</a> &nbsp; <a href="https://github.com/topness-msft/KilnSense"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<sup>🌐 Live &nbsp; 🧪 Beta</sup>
+<br><br>
+Real-time kiln monitoring for ceramic artists. Sign in with your KilnAid account to track temperature, firing schedule, and kiln status from any browser — or run it as a standalone Raspberry Pi kiosk.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="300"><a href="https://wordsync.app"><img src="screens/wordsync.png" alt="WordSync" width="280"></a></td>
 <td>
 <h3><a href="https://wordsync.app">WordSync</a> &nbsp; <a href="https://github.com/topness-msft/wordsync"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
@@ -71,18 +83,6 @@ AI adoption maturity assessment that guides organizations through a decision-tre
 <h3>FlightView &nbsp; <a href="https://github.com/topness-msft/FlightView"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
 <br>
 Raspberry Pi kiosk app tracking aircraft overhead via OpenSky Network. Two themes — vintage Solari split-flap board and modern Heathrow signage — for 7" and 10" touchscreens.
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="300"><a href="https://kilnsense.com"><img src="screens/kilnmonitor2.png" alt="KilnSense" width="280"></a></td>
-<td>
-<h3><a href="https://kilnsense.com">KilnSense</a> &nbsp; <a href="https://github.com/topness-msft/KilnMonitor"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
-<sup>🌐 Live &nbsp; 🧪 Beta</sup>
-<br><br>
-Real-time kiln monitoring for ceramic artists. Sign in with your KilnAid account to track temperature, firing schedule, and kiln status from any browser. Also runs as a Pi kiosk dashboard with an intelligent hub that shares screen time with FlightView.
 </td>
 </tr>
 </table>
