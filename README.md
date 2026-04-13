@@ -77,11 +77,12 @@ Raspberry Pi kiosk app tracking aircraft overhead via OpenSky Network. Two theme
 
 <table>
 <tr>
-<td width="300"><a href="https://github.com/topness-msft/KilnMonitor"><img src="screens/kilnmonitor2.png" alt="KilnMonitor" width="280"></a></td>
+<td width="300"><a href="https://kilnsense.com"><img src="screens/kilnmonitor2.png" alt="KilnSense" width="280"></a></td>
 <td>
-<h3>KilnMonitor &nbsp; <a href="https://github.com/topness-msft/KilnMonitor"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
-<br>
-Companion Pi kiosk dashboard for monitoring ceramic kiln firings in real time. Connects to an L&L kiln's Bartlett Genesis controller via the KilnAid cloud API, with a dynamic ramp chart that auto-zooms to the active temperature range. Shares a screen with FlightView through an intelligent kiosk hub.
+<h3><a href="https://kilnsense.com">KilnSense</a> &nbsp; <a href="https://github.com/topness-msft/KilnMonitor"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<sup>🌐 Live &nbsp; 🧪 Beta</sup>
+<br><br>
+Real-time kiln monitoring for ceramic artists. Sign in with your KilnAid account to track temperature, firing schedule, and kiln status from any browser. Also runs as a Pi kiosk dashboard with an intelligent hub that shares screen time with FlightView.
 </td>
 </tr>
 </table>
