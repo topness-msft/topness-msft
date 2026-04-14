@@ -11,7 +11,7 @@ I build tools at the intersection of AI, real-time data, and delightful UX — m
 <h3><a href="https://crowdhum.com">CrowdHum</a></h3>
 <sup>🌐 Live &nbsp; 🧪 Beta</sup>
 <br><br>
-Live audience polling and dynamic word clouds with AI clustering. No app install — scan a QR code, vote, and watch results materialize on screen. Built for speakers, facilitators, and storytellers.
+Live audience engagement — physics-animated polling where votes become glowing spheres, plus dynamic word clouds with AI clustering. No app install — scan a QR code and watch results materialize on screen. Built for speakers, facilitators, and storytellers.
 </td>
 </tr>
 </table>
