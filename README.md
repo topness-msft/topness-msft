@@ -66,9 +66,9 @@ German language learning via Deutsche Welle's slowly-spoken news — word-by-wor
 
 <table>
 <tr>
-<td width="300"><a href="https://adoptionpulse.com"><img src="screens/adoptionpulse.png" alt="AdoptionPulse" width="280"></a></td>
+<td width="300"><a href="https://aka.ms/adoptionpulse"><img src="screens/adoptionpulse.png" alt="AdoptionPulse" width="280"></a></td>
 <td>
-<h3><a href="https://adoptionpulse.com">AdoptionPulse</a></h3>
+<h3><a href="https://aka.ms/adoptionpulse">AdoptionPulse</a></h3>
 <sup>🌐 Live</sup>
 <br><br>
 AI adoption maturity assessment that guides organizations through a decision-tree questionnaire to evaluate AI readiness across a three-phase model — Empower, Reshape, and Reinvent.
