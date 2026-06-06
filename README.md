@@ -89,11 +89,22 @@ Raspberry Pi kiosk app tracking aircraft overhead via OpenSky Network. Two theme
 
 <table>
 <tr>
-<td width="300"><a href="https://github.com/topness-msft/TodoNess"><img src="screens/todoiq.png" alt="TodoIQ" width="280"></a></td>
+<td width="300"><a href="https://github.com/topness-msft/TodoIQ"><img src="screens/todoiq.png" alt="TodoIQ" width="280"></a></td>
 <td>
-<h3>TodoIQ &nbsp; <a href="https://github.com/topness-msft/TodoNess"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<h3>TodoIQ &nbsp; <a href="https://github.com/topness-msft/TodoIQ"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
 <br>
 AI-powered task manager that scans Microsoft 365 — Teams, meetings, flagged emails — to surface actionable to-dos. System-tray app with web dashboard, backed by Claude and WorkIQ MCP.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="300"><a href="https://github.com/topness-msft/orionsleep"><img src="screens/orionsleep.png" alt="OrionSleep" width="280"></a></td>
+<td>
+<h3>OrionSleep &nbsp; <a href="https://github.com/topness-msft/orionsleep"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<br>
+Brings the Orion Sleep mattress topper into Apple HomeKit. A Hubitat driver plus Postman collection that reverse-engineer the bed's API for temperature and thermal-relief ("hot flash") control — so a physical button can warm, cool, or trigger relief on either side of the bed.
 </td>
 </tr>
 </table>
