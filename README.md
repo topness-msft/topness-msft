@@ -109,3 +109,13 @@ Brings the Orion Sleep mattress topper into Apple HomeKit. A Hubitat driver plus
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+<h3>Callwright</h3>
+<sup>🔒 Private &nbsp; 🛠️ Personal</sup>
+<br><br>
+A voice agent that places real phone calls — reservations, appointments, inquiries — on my behalf, shaped by an LLM's direction and grounding. It discloses that it's an AI, negotiates within bounds I set, never fabricates, and reports the outcome. Built on Retell and exposed as a hosted <strong>MCP server</strong>, so any MCP-capable assistant (Claude, ChatGPT, Copilot) can place calls for me. Speaks English and Japanese — and can add new languages at runtime — learns the details it was missing from each call, and re-dials an unanswered call once.
+</td>
+</tr>
+</table>
