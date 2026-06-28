@@ -119,3 +119,14 @@ A voice agent that places real phone calls on my behalf, shaped by an LLM's dire
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="300"><a href="https://github.com/topness-msft/salonrunner-mcp"><img src="screens/salonrunner.png" alt="SalonRunner MCP" width="280"></a></td>
+<td>
+<h3>SalonRunner MCP &nbsp; <a href="https://github.com/topness-msft/salonrunner-mcp"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<br>
+A self-hosted <strong>MCP server</strong> that books salon appointments through SalonRunner — the booking system my hair salon uses. Ask your assistant to "find a haircut next Tuesday with my usual stylist" or "cancel my Friday appointment," and it lists services and stylists, finds real availability, and books or cancels on my behalf. It reverse-engineers the SalonRunner client API and is exposed to <strong>claude.ai</strong> as a remote connector — you sign in with your salon login on a consent screen, your credentials are encrypted into the token (so authorization survives scale-to-zero), and one deployment can serve any salon on SalonRunner.
+</td>
+</tr>
+</table>
