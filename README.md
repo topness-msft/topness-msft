@@ -111,10 +111,10 @@ Brings the Orion Sleep mattress topper into Apple HomeKit. A Hubitat driver plus
 
 <table>
 <tr>
+<td width="300" align="center"><h1>📞</h1></td>
 <td>
-<h3>Callwright</h3>
-<sup>🔒 Private &nbsp; 🛠️ Personal</sup>
-<br><br>
+<h3>Callwright &nbsp; <a href="https://github.com/topness-msft/callwright"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<br>
 A voice agent that places real phone calls on my behalf, shaped by an LLM's direction and grounding. Ask your assistant to "book a table for four Friday at 7," "confirm the repair appointment in my calendar," or "call this shop and ask if they have it in stock," and it makes the call — disclosing that it's an AI, negotiating only within bounds I set, never fabricating, and reporting back. It can even <strong>book a reservation in a language I don't speak</strong>: English and Japanese out of the box, with any other language added on the fly (translated prompt + a native voice). Built on Retell and exposed as a hosted <strong>MCP server</strong>, so any assistant (Claude, ChatGPT, Copilot) can drive it; it learns the details it was missing from each call and re-dials an unanswered call once.
 </td>
 </tr>
