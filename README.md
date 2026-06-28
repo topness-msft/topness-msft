@@ -111,7 +111,7 @@ Brings the Orion Sleep mattress topper into Apple HomeKit. A Hubitat driver plus
 
 <table>
 <tr>
-<td width="300" align="center"><h1>📞</h1></td>
+<td width="300"><a href="https://github.com/topness-msft/callwright"><img src="screens/callwright.png" alt="Callwright" width="280"></a></td>
 <td>
 <h3>Callwright &nbsp; <a href="https://github.com/topness-msft/callwright"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
 <br>
