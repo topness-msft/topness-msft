@@ -111,6 +111,17 @@ Brings the Orion Sleep mattress topper into Apple HomeKit. A Hubitat driver plus
 
 <table>
 <tr>
+<td width="300" align="center">☀️<br><br><strong>Hubitat</strong></td>
+<td>
+<h3>Hubitat Solar Shade Controller &nbsp; <a href="https://github.com/topness-msft/hubitat-solar-shade-controller"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
+<br>
+Derived-sunlight automation for exterior shades. Combines solar position, Open-Meteo radiation, facade geometry, and dwell-gated hysteresis to safely control multiple one-way Somfy RTS/Bond shades.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="300"><a href="https://github.com/topness-msft/callwright"><img src="screens/callwright.png" alt="Callwright" width="280"></a></td>
 <td>
 <h3>Callwright &nbsp; <a href="https://github.com/topness-msft/callwright"><img src="https://img.shields.io/badge/repo-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="18"></a></h3>
