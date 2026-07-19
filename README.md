@@ -18,22 +18,10 @@ Live audience engagement — physics-animated polling where votes become glowing
 
 <table>
 <tr>
-<td width="300"><a href="https://mcpstation.io"><img src="screens/mcpstation.png" alt="MCP Station" width="280"></a></td>
-<td>
-<h3><a href="https://mcpstation.io">MCP Station</a></h3>
-<sup>🌐 Live &nbsp; 🧪 Beta</sup>
-<br><br>
-A catalog and factory for MCP servers. Generate mock servers from a prompt, sample data, or OpenAPI spec — plus browse pre-built servers and agent recipes. Deploy to Copilot Studio, Claude Desktop, or Cursor. <strong>Free for anyone to use at hackathons.</strong>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="300"><a href="https://replaylane.com"><img src="screens/replaylane.png" alt="ReplayLane" width="280"></a></td>
 <td>
 <h3><a href="https://replaylane.com">ReplayLane</a></h3>
-<sup>🌐 Live &nbsp; 🧪 Beta</sup>
+<sup>🔒 Private Beta</sup>
 <br><br>
 Turn any screen recording into an interactive click-through demo. Upload a video and get a shareable HTML simulation — viewers click through each step at their own pace. Great for product walkthroughs, training, and docs.
 </td>
